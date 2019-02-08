@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549268928360.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2929664111",
+    "id" : "4A680313",
+    "lastKnownWriteTime" : 1549383585,
+    "last_content_update" : 1549383585560,
+    "path" : "~/Google Drive/BSSA - data analytics/Module 2/Task 4/Market Basket Analysis/4.Explore and visualize rules.R",
+    "project_path" : "4.Explore and visualize rules.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

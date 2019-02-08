@@ -1,0 +1,17 @@
+# DECRIPTION: Market BAsket Analysis of Electronidex Transactions
+# NAME: Else Frijling
+# SCRIPT FUNCTION: Use the apriori function to create rules
+# VERSION: 1
+
+
+# the apriori() function using "out of the box" default settings:              
+# RulesName<- apriori (DatasetName, parameter = list(supp = 0.1, conf = 0.8))
+
+Rules <- apriori (Transactions, 
+                  parameter = list(supp = 0.008, conf = 0.55))
+inspect(Rules)
+
+#explore rules
+arulesViz::ruleExplorer(Rules)
+
+

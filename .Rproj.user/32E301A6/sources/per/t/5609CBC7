@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549020851327.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1361686662",
+    "id" : "5609CBC7",
+    "lastKnownWriteTime" : 1549383542,
+    "last_content_update" : 1549383542761,
+    "path" : "~/Google Drive/BSSA - data analytics/Module 2/Task 4/Market Basket Analysis/1.Libraries and exploration_Market basket analysis_ElseV1.R",
+    "project_path" : "1.Libraries and exploration_Market basket analysis_ElseV1.R",
+    "properties" : {
+        "cursorPosition" : "16,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

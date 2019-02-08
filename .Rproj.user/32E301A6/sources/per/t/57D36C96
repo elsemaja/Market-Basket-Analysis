@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549268647342.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3751097043",
+    "id" : "57D36C96",
+    "lastKnownWriteTime" : 1549383541,
+    "last_content_update" : 1549383541227,
+    "path" : "~/Google Drive/BSSA - data analytics/Module 2/Task 4/Market Basket Analysis/2.Visualize the dataset.R",
+    "project_path" : "2.Visualize the dataset.R",
+    "properties" : {
+        "cursorPosition" : "11,82",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
